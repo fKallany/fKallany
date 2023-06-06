@@ -1,7 +1,7 @@
-Olá eu sou Fabio Kallany Silva Santos!
+HI i'm Fabio Kallany Silva Santos!
 
-Sou um estudante de Ciencias da Computação na Faculdade Impacta, atualmente cursando o ultimo ano, previsão de término 2023.
+I'm a Computer Science student at Faculdade Impacta, currently in my final year, expected to finish in 2023.
 
-Estagiei na área por 1 ano, trabalhei com Java, Javascript, Jquery, Bootstrap, Github e PostgreSQL. Esse projeto de estágio foi focado em um site de finanças, trabalhamos com CRUD, diferentes autenticações de usuário, paginação, pesquisas e filtros, estoque de produtos (criação, edição e exclusão).
+Web developer with experience in JavaScript, React, jQuery, Git. I have skills in front-end development. I am constantly looking to learn new technologies and improve my programming skills.
 
-Atualmente estou trabalhando como Junior na MyHunterss na parte do FrontEnd.
+I'm currently working as a Junior at MyHunterss in the FrontEnd part.
