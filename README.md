@@ -1,7 +1,7 @@
-HI i'm Fabio Kallany Silva Santos!
+Hi, I'm Fabio Kallany Silva Santos!
 
-I graduated in Computer Science from Faculdade Impacta in 2023.
+I hold a degree in Computer Science from Faculdade Impacta, graduating in 2023.
 
-Web developer with experience in JavaScript, jQuery, Tailwind, Git. I have skills in front-end development. I am constantly looking to learn new technologies and improve my programming skills.
+I am a seasoned web developer with expertise in React, TypeScript, and Git. My proficiency lies primarily in front-end development, where I excel at crafting intuitive user interfaces and seamless user experiences.
 
-I'm currently working at MyHunterss in the FrontEnd part.
+Currently, I am employed at MyHunterss, where I specialize in front-end development.
