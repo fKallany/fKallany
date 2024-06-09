@@ -17,6 +17,6 @@ Currently, I am employed at MyHunterss, where I contribute to the FrontEnd devel
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/kallany/])!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kallany/)!
 
 Let's create something awesome together!
